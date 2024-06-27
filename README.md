@@ -8,7 +8,7 @@
 - フラノートが書ける会員サイトへの登録
 
 ## ③DEMO
-- https://health-hokulani.sakura.ne.jp/php01/
+- https://health-hokulani.sakura.ne.jp/php02/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
